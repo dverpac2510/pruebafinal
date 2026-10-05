@@ -1,0 +1,28 @@
+Inicio
+	Escribe "CAJA DE LA TIENDA"
+	
+	
+	precio = 1
+	
+	Mientras precio != 0 hacer
+	
+		Escribe "Introduce el precio unitario en euros (0 para terminar):"
+		Lee precio
+	
+		Si precio <0 entonces
+			Escribe "El precio no puede ser negativo."
+	 
+		Sino
+			Escribe "Introduce el número de unidades:"
+			Lee unidades
+		
+			Si unidades <=0
+				Escribe "La cantidad debe ser mayor que 0."
+		
+	Escribe "RESUMEN DE LA COMPRA"
+		
+
+
+
+	
+	
