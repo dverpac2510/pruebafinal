@@ -1,0 +1,1 @@
+Ya tengo las dos tareas hechas, y tanto el ordenador de mi instituto como el de mi casa conectados por ssh
